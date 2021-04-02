@@ -8,11 +8,20 @@
 ### Iniciando a Aplicação
 <p align="center">
   * Para inicar o projeto , é necessário ter a biblioteca react instalada https://pt-br.reactjs.org/;
-  * Presizaremos também do node.js || https://nodejs.org/en/ || versão LTS;
-  * Necessário instalar o react router para ter acessso as rotas https://reactrouter.com/web/guides/quick-start;
-  * Necessário ter o axios , cliente HTTP para o consumo das rotas  || npm install axios ||;
-  * Após , só iniciar o projeto com || npm start
 </p>
+<p align="center">
+  * Precisaremos também do node.js || https://nodejs.org/en/ || versão LTS;
+</p>
+<p align="center">
+  * Necessário instalar o react router para ter acessso as rotas https://reactrouter.com/web/guides/quick-start;
+</p>
+<p align="center">
+  * Necessário ter o axios , cliente HTTP para o consumo das rotas  || npm install axios ||;
+</p>
+<p align="center">
+  * Após , só iniciar o projeto com || npm start
+ </p>
+
 
 ### Otimizações
 <p align="center">
